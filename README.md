@@ -35,7 +35,7 @@ Menampilkan tren penyewaan berdasarkan waktu, cuaca, suhu, serta hasil *RFM Anal
 
 ## ⚙️ Cara Menjalankan di Lokal
 
-### 1️⃣ Clone repository
+### 1️⃣ Clone repository, 2️⃣ Install Dependecies, 3️⃣ Run Aplikasi
 ```bash
 git clone https://github.com/Revolcy/py_analyze.git
 pip install -r requirements.txt
