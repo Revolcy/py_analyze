@@ -37,5 +37,6 @@ Menampilkan tren penyewaan berdasarkan waktu, cuaca, suhu, serta hasil *RFM Anal
 
 ### 1️⃣ Clone repository
 ```bash
-git clone https://github.com/USERNAME/bike-sharing-dashboard.git
-cd bike-sharing-dashboard
+git clone https://github.com/Revolcy/py_analyze.git
+pip install -r requirements.txt
+streamlit run dashboard/dashboard.py
